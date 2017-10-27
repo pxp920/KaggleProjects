@@ -1,5 +1,6 @@
-## imports
-#%matplotlib inline
+#Version 1.0.0
+#2017.10.27
+
 from __future__ import print_function
 from __future__ import division
 import numpy as np
